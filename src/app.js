@@ -54,6 +54,7 @@ yargs.command({
   },
   handler: (args) => {
     const { id } = args;
+    2;
     let listProducts = getListProducts();
     listProducts = listProducts.filter((product) => product.id != id);
     updateListProducts(listProducts);

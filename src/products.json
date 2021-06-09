@@ -3,15 +3,15 @@
     "id": "1",
     "name": "Iphone12",
     "price": 1000,
-    "amount": 250,
+    "amount": 300,
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing."
   },
   {
     "id": "2",
-    "name": "pixel 6",
-    "price": 800,
-    "amount": 261,
-    "description": "Lorem ipsum dolor sit amet."
+    "name": "pixel 4xl",
+    "price": 300,
+    "amount": 123,
+    "description": "qwertyuiopasdfghjklzxcvbnm"
   },
   {
     "id": "3",
